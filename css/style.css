@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8),  url(https://i.postimg.cc/YjcJg24M/aa.jpg));
+}
+.abc{
+	top: 10px;
+	text-align: center;
+	padding: 20% 10%;
+}
+body {
+	font-family: 'Poppins', sans-serif;
+	background:linear-gradient(rgba(0, 0, 0, 0.8) rgba(0, 0, 0, 0.8));
+}
+.abc h1 span {
+	position: center;
+	color: #00fecb;
+}
+.welcome-text a {
+	border: 1px solid #fff;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-top: 20px;
+	display: inline-block;
+	color: #fff;
+}
+.welcome-text a:hover {
+	background: #fff;
+	color: #333;
+}
